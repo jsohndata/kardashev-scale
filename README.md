@@ -1,5 +1,5 @@
 # Kardashev Scale
-Intrdocution to HTML and CSS during Week 4 of Bocacode.
+Introduction to HTML and CSS during Week 4 of Bocacode.
 
 ![screen shot](./src/images/readme.png)
 
