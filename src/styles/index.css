@@ -7,7 +7,7 @@ body {
   background-image: url("../images/bg.webp");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: bottom;
 }
 
 h1,h2,h3,p {
@@ -74,18 +74,26 @@ p {
 
 .flex-container figure img {
   width: 100%;
-  transition: transform 0.5s ease-in-out;
+  filter: brightness(50%);
+  transform: scale(90%);
+  transition: 0.5s ease-in-out;
 }
 
 .flex-container figure img:hover {
-  transform: scale(1.13);
-  filter: drop-shadow(10px 10px 30px rgba(255, 255, 255, 0.2));
+  transform: scale(113%);
+  filter: 
+    brightness(100%)
+    drop-shadow(10px 10px 30px rgba(255, 255, 255, 0.2));
 }
 
 
 @media (max-width: 768px) {
   .flex-container {
     flex-direction: column;
+  }
+
+  .flex-container figure img {
+    transform: scale(100%);
   }
 
   .flex-container div {

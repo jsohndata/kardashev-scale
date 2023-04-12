@@ -1,5 +1,5 @@
 # Kardashev Scale
-Introduction to HTML and CSS during Week 4 of Bocacode.
+In Week 4 of Bocacode, students are taught the fundamentals of web development, including HTML and CSS. As part of the class project, we applied this knowledge to create a web page that explains the concept of the Kardashev Scale.
 
 ![screen shot](./src/images/readme.png)
 
