@@ -10,7 +10,7 @@ In Week 4 of BocaCode (C-10), students are taught the fundamentals of web develo
 
 <br>
 
-## Resources
+## Resource
 * [Graphics From: Unfilter Gamer - Kardashev Scale](https://unfilteredgamer.com/review-kardashev-scale/)
 * [W3Schools: CSS Filter](https://www.w3schools.com/cssref/playdemo.php?filename=playcss_filter)
 * [W3Schools: CSS Cusor](https://www.w3schools.com/cssref/tryit.php?filename=trycss_cursor)
